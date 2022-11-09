@@ -1,8 +1,8 @@
-### Hi there 👋
+### Welcome 👋
 
-<!--
+
 **Nyikwagh Moses** and I am pleased to meet you.
-
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
