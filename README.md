@@ -1,4 +1,4 @@
-### Welcome 👋
+### Hello 👋
 ![Github Header](banner/mosnyik.png)
 
 I am **Nyikwagh Moses** it is a pleasure to meet you.
