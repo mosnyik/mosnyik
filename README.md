@@ -1,7 +1,7 @@
 ### Welcome 👋
 
 
-**Nyikwagh Moses** and I am pleased to meet you.
+I am **Nyikwagh Moses** it is a pleasure to meet you.
 <!--
 Here are some ideas to get you started:
 
