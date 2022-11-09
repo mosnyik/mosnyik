@@ -1,7 +1,10 @@
 ### Welcome 👋
-
+![Github Header](banner/mosnyik.png)
 
 I am **Nyikwagh Moses** it is a pleasure to meet you.
+
+
+
 <!--
 Here are some ideas to get you started:
 
@@ -10,7 +13,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+-->
+
+- 📫 How to reach me:- <a href="https://twitter.com/mosnyik" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/85313109/175697635-e7798a13-0183-45f4-a03f-fe070051f650.png" alt="Nyikwagh-Moses" height="20" width="22" /></a> <a href="https://www.linkedin.com/in/moses-nyikwagh-a29a25127/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/85313109/175698162-248acd34-57ad-431c-b0bd-7dc6ee7bbab7.png" alt="Nyikwagh-Moses" height="30" width="30" /></a>
+<!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
