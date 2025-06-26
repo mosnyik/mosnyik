@@ -4,7 +4,20 @@
 
 
 # 💫 About Me:
-Hi there! I'm Nyikwagh Moses, a Full-Stack Developer passionate about building scalable and innovative web applications. I specialise in React, Node.js, Web3, and blockchain development, with a deep understanding of smart contracts, payment systems, and decentralised applications (dApps).<br><br>💡 What I'm Currently Working On<br>A crypto to fiat payment system that allows users to spend crypto as fiat, starting with Nigerian Niara<br>A CLI tool that allows users to generate Clarity projects for the Stacks blockchain.<br><br>Smart contract integration and Ethereum-based transactions to ensure secure and decentralised payments.<br><br>Enhancing my knowledge of Web3.js, Ethers.js, and Wagmi to build better blockchain-based solutions.<br><br>🤝 What I'm Looking to Collaborate On<br>Full-stack projects involving Web3, React, Node.js, innovative solutions that ease the traditional flow of operations or innovative payment solutions.<br><br>Open-source projects that push the boundaries of blockchain integration with traditional web applications.<br><br>Building scalable, real-time applications with optimised performance.<br><br>🔍 What I'm Looking for Help With<br>Best practices for optimizing blockchain transaction processing.<br><br>Advanced backend architectures for handling large-scale dApps.<br><br>Exploring AI + Web3 integrations for future-proof applications.<br><br>💭 Ask Me About<br>Web3 development, Ethereum, and smart contract interactions.<br><br>Frontend frameworks like React, Next.js, and UI libraries (Chakra UI, Material UI).<br><br>Payment processing in decentralised systems.<br><br>🎯 Fun Fact<br>I enjoy solving coding challenges where successful projects are eligible for payments! I also love diving deep into new technologies and understanding them intuitively before implementation.
+Hi there! I'm Nyikwagh Moses, a Full-Stack Developer passionate about building scalable and innovative web applications. I specialise in React, Node.js, Web3, and blockchain development, with a deep understanding of smart contracts, payment systems, and decentralised applications (dApps).<br><be>
+## 💡 What I'm Currently Working On
+<br>A crypto to fiat payment system that allows users to spend crypto as fiat, starting with Nigerian Niara<br>A CLI tool that allows users to generate Clarity projects for the Stacks blockchain.<br><br>Smart contract integration and Ethereum-based transactions to ensure secure and decentralised payments.<br><br>Enhancing my knowledge of Web3.js, Ethers.js, and Wagmi to build better blockchain-based solutions.<br><br>
+## 🤝 What I'm Looking to Collaborate On
+<br>
+Full-stack projects involving Web3, React, Node.js, innovative solutions that ease the traditional flow of operations or innovative payment solutions.<br><br>Open-source projects that push the boundaries of blockchain integration with traditional web applications.<br><br>Building scalable, real-time applications with optimised performance.<br>
+<br>
+## 🔍 What I'm Looking for Help With
+<br>
+Best practices for optimizing blockchain transaction processing.<br><br>Advanced backend architectures for handling large-scale dApps.<br><br>Exploring AI + Web3 integrations for future-proof applications.<br><br>
+## 💭 Ask Me About<br>Web3 development, Ethereum, and smart contract interactions.<br><br>Frontend frameworks like React, Next.js, and UI libraries (Chakra UI, Material UI).<br><br>Payment processing in decentralised systems.<br><br>
+## 🎯 Fun Fact
+<br>
+I enjoy solving coding challenges where successful projects are eligible for payments! I also love diving deep into new technologies and understanding them intuitively before implementation.
 
 
 ## 🌐 Socials:
